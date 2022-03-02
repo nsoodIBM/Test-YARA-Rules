@@ -1,0 +1,1 @@
+rule testAlternateRule { condition: false }
